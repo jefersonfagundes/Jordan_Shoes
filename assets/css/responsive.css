@@ -1,0 +1,20 @@
+@media (min-width: 600px) and (max-width: 950px) {
+    .shoes-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 951px) {
+    #best {
+        height: 32.7rem;  
+    }
+    .shoes-list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1281px) and (max-width: 1440px){
+    #best {
+        height: 40rem;
+    }
+}

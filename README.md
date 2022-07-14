@@ -1,5 +1,5 @@
 # :desktop_computer:Jordan Shoes
-<img src="assets/readme_img/JordanPreview.PNG"></img>
+<img src="assets/readme_img/JordansPreview.PNG"></img>
 <h4 align="center"><a href="#" target="_blank">Acessar Demonstração</a></h4>
 
 ---
